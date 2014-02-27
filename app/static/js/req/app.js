@@ -1,3 +1,5 @@
+//Configuration for Require
+
 
 //Configuring paths to libraries
 require.config({
