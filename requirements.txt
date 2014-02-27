@@ -1,0 +1,7 @@
+Requirements:
+
+require.js: v2.1.11
+	jquery: v2.0.3	
+		angular.js: v1.2.13
+		typeahead.js: v0.9.3
+		bootstrap: v3.1.1
